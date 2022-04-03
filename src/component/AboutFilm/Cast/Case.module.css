@@ -1,0 +1,21 @@
+.cast {
+  color: rgba(153, 141, 123, 255);
+  font-size: 20px;
+  list-style: none;
+  width: 200px;
+  margin-top: 20px;
+}
+.listCast {
+  background-color: rgba(24, 24, 24, 255);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 900px;
+  min-height: 100px;
+  margin: 0 auto;
+  padding: 15px;
+}
+.nameActor {
+  text-align: center;
+  padding: 5px;
+}

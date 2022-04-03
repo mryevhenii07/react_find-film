@@ -1,0 +1,13 @@
+.reviews {
+  color: rgba(153, 141, 123, 255);
+  font-weight: bold;
+  list-style: none;
+}
+.list {
+  background-color: rgba(24, 24, 24, 255);
+  width: 900px;
+  min-height: 100px;
+  margin: 0 auto;
+  padding: 15px;
+  /* background-color: ); */
+}

@@ -1,0 +1,55 @@
+.listTrends {
+  width: 380px;
+  height: 400px;
+  background-color: rgba(34, 34, 34, 255);
+  text-decoration: none;
+  list-style: none;
+  margin-top: 30px;
+  border-radius: 50px 0;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.wrapListTrends {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.title {
+  color: rgba(153, 141, 123, 255);
+  text-align: center;
+}
+.years {
+  color: rgba(153, 141, 123, 255);
+  font-weight: bold;
+}
+.wrapYearRating {
+  margin: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  color: rgba(153, 141, 123, 255);
+}
+.hardColor {
+  color: red;
+  font-size: 19px;
+  margin-left: 3px;
+}
+.text {
+  color: rgba(153, 141, 123, 255);
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding: 8px 15px;
+  display: block;
+  width: 380px;
+  height: 100px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  font-size: 14px;
+  font-weight: bolt;
+}
+.mainTitle {
+  margin-top: 15px;
+  text-align: center;
+}
