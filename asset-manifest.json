@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_find-film/static/css/main.f1fc46ab.css",
+    "main.js": "/react_find-film/static/js/main.7e2e5faf.js",
+    "static/media/default-image.jpg": "/react_find-film/static/media/default-image.2e01288c0c1a3f24d743.jpg",
+    "index.html": "/react_find-film/index.html",
+    "main.f1fc46ab.css.map": "/react_find-film/static/css/main.f1fc46ab.css.map",
+    "main.7e2e5faf.js.map": "/react_find-film/static/js/main.7e2e5faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1fc46ab.css",
+    "static/js/main.7e2e5faf.js"
+  ]
+}
